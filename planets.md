@@ -1,1 +1,2 @@
-the no of planets are 
+the no of planets are
+nine
